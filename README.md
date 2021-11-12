@@ -4,7 +4,7 @@ TÉCNICAS DE PROTOTIPAGEM
 
 Integrantes do Grupo:
 
-Marcos Vinícius Lins de Oliveira;\n
+Marcos Vinícius Lins de Oliveira;
 
 Talison Kennedy Oliveira Costa;
 
