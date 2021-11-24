@@ -1,11 +1,4 @@
 ########################
-TÉCNICAS DE PROTOTIPAGEM
+TÉCNICAS DE PROTOTIPAGEM  ** INDIVIDUAL **
 #######################
 
-Integrantes do Grupo:
-
-Marcos Vinícius Lins de Oliveira;
-
-Talison Kennedy Oliveira Costa;
-
-Everson Batista Mariano.
